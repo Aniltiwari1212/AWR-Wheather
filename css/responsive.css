@@ -1,0 +1,257 @@
+@media(max-width:1199.98px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+    }
+    .nav-item {
+        padding-right: 0px;
+        margin-left: 10px;
+    }
+    .navbar-collapse {
+        right: -10px;
+        bottom: -45px;
+    }
+    .srvc-slider img {
+        width: 180px !important;
+    }
+    .partner_logo h3{
+        font-size: 16px;
+    }
+    .partner_logo p{
+        font-size: 12px;
+        max-width: 200px;
+    }
+    .testi-btns .custom-btn {
+        display: block;
+        font-size: 12px;
+    }
+    .testi-star img {
+        width: 150px !important;
+        margin: 0 auto;
+    }
+    .testi-star h4{
+        margin-left: 100px;
+    }
+    .review_media h6{
+        font-size: 20px;
+    }
+    .header-sec .custom-btn .topMenu-btn{
+        display: none;
+    }
+}
+
+@media(max-width:991.98px){
+    .header-sec .custom-btn .topMenu-btn{
+        display: block !important;
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+        width: 100% !important;
+    }
+    .header-sec .custom-btn {
+        order: 1;
+        display: none;
+    }
+    .header-sec .custom-btn.topMenu-btn {
+        display: block;
+        margin-left: 0;
+    }
+    .call-us a span {
+        display: none;
+    }
+    .bnr-logo {
+        position: absolute;
+        right: 30px;
+        bottom: -230px;
+    }
+    .form-head {
+        display: block;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .form-box {
+        display: block;
+        align-items: center;
+    }
+    .form-group {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .add-width {
+        width: 100%;
+    }
+     
+    .srvc_row >div:first-child {
+        background-color: #F7F7F7;
+        padding: 100px 20px 100px 20px;
+    }
+    .srvc-slider img {
+        width: 300px !important;
+    }
+    .partner_logo h3{
+        font-size: 26px;
+    }    
+    .partner_logo p {
+        font-size: 17px;
+        max-width: 280px;
+    }
+    .bnr-logo img {
+        width: 180px;
+    }
+    .contact_form .custom_btn .blue_btn {
+        width: 100% !important;
+    }
+    .contact_form .custom_btn {
+        width: 100% !important;
+    }
+    .aditnl_photo .head_box h4{
+        font-size: 18px;
+    }
+    .testi-btns {
+        max-width: 100%;
+        margin-left: 0;
+        margin-top: 80px;
+    }
+    .review-boxx .row .col-md-6:nth-child(2){
+        border-left: 2px solid #fff;
+        border-bottom: 2px solid #fff;
+    }
+    .review-boxx .row .col-md-6:nth-child(4){
+        border-left: 2px solid #fff;
+    }
+    .review-boxx .row .col-md-6:nth-child(1){
+        border-bottom: 2px solid #fff;
+    }
+    .review-boxx .row > div{
+        border-right: none !important;
+    }
+    .review_media {
+        text-align: center;
+        margin-top: 40px;
+        padding-bottom: 30px;
+    }
+    .video-txt{
+        margin-left: 0;
+    }
+    .area-left {
+        padding-left: 100px;
+        max-width: 550px;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ftr-head {
+        margin-top: 30px;
+    }
+}
+
+@media(max-width:767.98px){
+    .navbar-brand img {
+        width: 220px;
+    }
+    .bnr-txt h1 {
+        font-size: 52px;
+        text-align: center;
+    }
+    .bnr-txt h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .bnr-txt .btn-groups {
+        margin: 30px 0 22px;
+        text-align: center;
+    }
+    .bnr-sec .blue_btn{
+        width: 100%;
+        margin-top: 12px;
+    }
+    .bnr-sec .btn-groups .custom-btn:not(:last-child) {
+        margin-right: 25px;
+        width: 100%;
+    }
+    .bnr-logo img {
+        width: 120px;
+    }
+    .bnr-logo {
+        position: absolute;
+        right: 30px;
+        bottom: -260px;
+    }
+    .form-box .custom-btn.blue_btn {
+        width: 100%;
+    }
+    .srvc-txt h2{
+        font-size: 26px;
+    }
+    .stylish-btn span{
+        font-size: 18px;
+    }
+    .srvc-txt h2 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .stylish-btn span {
+        font-size: 14px;
+    }
+    .partner_logo h3 {
+        font-size: 22px;
+        font-weight: 800;
+    }
+    .partner_logo p{
+        font-size: 15px;
+    }
+    .whea-dBox h2{
+        font-size: 42px;
+    }
+    .what-we h3{
+        font-size: 16px;
+    }
+    .what-we p {
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .aditnl_photo {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .subTxt p{
+        font-size: 12px;
+    }
+    .testi-title h2{
+        font-size: 40px;
+    }
+    .testi-star::before{
+        width: 60px;
+        height: 40px;
+    }
+    .testi-star h4 {
+        margin-left: 10px;
+    }
+    .testi-star p {
+        font-size: 13px;
+        line-height: 1.7;
+    }
+    .review-boxx .row .col-md-6:nth-child(1) {
+        border-bottom: none;
+    }
+    .review-boxx .row .col-md-6:nth-child(2) {
+        border-left:none;
+        border-bottom: none;
+    }
+    .review-boxx .row .col-md-6:nth-child(4) {
+        border-left:none;
+    }
+    .video-txt p {
+        font-size: 17px
+    }
+    .video-txt img {
+        position: absolute;
+        bottom: 0px;
+        right: 30px;
+        width: 120px;
+    }
+    .area-left h3{
+        font-size: 26px;
+    }
+    .area-left{
+        padding-left: 30px;
+    }
+}
+
